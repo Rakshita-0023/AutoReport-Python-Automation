@@ -1,0 +1,1001 @@
+sale_id,sale_date,product,region,quantity,unit_price
+S-00900,27-04-2025,Webcam,East,1,2499.00
+S-00301,2025-03-30,USB-C Cable,North,2,299.00
+S-00592,08 Feb 2025,Desk Mat,East,4,549.00
+S-00118,2025-01-26,Desk Mat,South,2,649.00
+S-00335,15/03/2025,Laptop Stand,East,1,1399.00
+S-00129,2025-03-01,Mechanical Keyboard,West,3,3249.00
+S-00283,2025-02-24,Mechanical Keyboard,West,6,3299.00
+S-00802,21 Jan 2025,USB-C Hub,North,3,2199.00
+S-00600,2025-05-01,Laptop Stand,East,2,1399.00
+S-00418,28-05-2025,Desk Mat,South,1,599.00
+S-00193,2025-05-15,Wireless Mouse,West,2,849.00
+S-00031,18-01-2025, Laptop Stand ,West,1,1499.00
+S-00213,24/04/2025,USB-C Cable,South,2,399.00
+S-00049,31 Mar 2025,Wireless Mouse,East,2,849.00
+S-00506,16-05-2025,Desk Mat,South,6,649.00
+S-00851,29-01-2025,USB-C Cable,South,1,399.00
+S-00210,06 Feb 2025,Laptop Stand,North,2,1449.00
+S-00925,2025-03-27,Monitor Riser,East,1,1199.00
+S-00312,23 May 2025,Webcam,West,1,2399.00
+S-00932,09 Apr 2025,Laptop Stand,North,2,1399.00
+S-00203,2025-05-23,Laptop Stand,South,2,1499.00
+S-00388,08 Feb 2025,Laptop Stand,North,2,1499.00
+S-00742,05-06-2025,Laptop Stand,West,5,1449.00
+S-00104,2025-03-30,USB-C Cable,West,1,399.00
+S-00067,2025-06-05,Wireless Mouse,South,2,849.00
+S-00962,2025-02-06,Mechanical Keyboard,South,1,3199.00
+S-00841,05 May 2025,Wireless Mouse,South,1,749.00
+S-00604,2025-05-05,Webcam,West,1,2499.00
+S-00757,22-05-2025,USB-C Hub,South,2,2099.00
+S-00487,18-05-2025,Webcam,South,3,2499.00
+S-00384,26-05-2025,Desk Mat,South,3,649.00
+S-00618,27-06-2025,Laptop Stand,South,3,1399.00
+S-00662,21-06-2025,Laptop Stand,North,3,1499.00
+S-00967,2025-01-16,Monitor Riser,South,2,1199.00
+S-00767,21-05-2025,Mechanical Keyboard,North,2,3199.00
+S-00529,11-03-2025,USB-C Hub,North,2,2199.00
+S-00320,05 Jan 2025,Monitor Riser,South,1,1199.00
+S-00569,2025-01-04,USB-C Cable,North,1,299.00
+S-00069,21-04-2025,Wireless Mouse,East,5,749.00
+S-00791,01 Jan 2025,USB-C Hub,South,2,2199.00
+S-00591,12/03/2025,Mechanical Keyboard,West,5,3299.00
+S-00070,19 Jun 2025,Wireless Mouse,West,1,849.00
+S-00014,22-03-2025,USB-C Cable,,1,299.00
+S-00524,17/02/2025,Mechanical Keyboard,North,4,3299.00
+S-00912,12 Apr 2025,Laptop Stand,West,1,1499.00
+S-00678,11 Jan 2025,Webcam,South,3,2499.00
+S-00577,24-04-2025,Desk Mat,East,2,599.00
+S-00120,2025-06-28,USB-C Hub,West,3,2199.00
+S-00883,2025-05-13,USB-C Cable,East,1,349.00
+S-00496,2025-02-28,Laptop Stand,North,4,1499.00
+S-00830,19 Feb 2025,Desk Mat,South,5,549.00
+S-00111,13/05/2025,Desk Mat,North,3,599.00
+S-00133,23-04-2025,Wireless Mouse,South,1,799.00
+S-00167,09-04-2025,Monitor Riser,North,2,1199.00
+S-00053,29 Mar 2025,Desk Mat,West,4,549.00
+S-00582,03-03-2025,Webcam,South,2,2449.00
+S-00182,27 Apr 2025,Webcam,West,3,2399.00
+S-00872,23 Mar 2025,USB-C Hub,West,3,2149.00
+S-00359,2025-04-08,Monitor Riser,East,5,1149.00
+S-00623,02 Mar 2025,Laptop Stand,North,1,1499.00
+S-00762,28-05-2025,Mechanical Keyboard,South,6,3199.00
+S-00776,28 May 2025,USB-C Hub,East,1,2199.00
+S-00724,26-02-2025,USB-C Cable,South,3,399.00
+S-00192,02 Mar 2025,Webcam,North,1,2499.00
+S-00627,2025-06-23,Webcam,South,1,2499.00
+S-00637,21/04/2025,Desk Mat,South,3,599.00
+S-00530,15/01/2025,Monitor Riser,South,3,1199.00
+S-00480,2025-05-07,USB-C Cable,North,2,299.00
+S-00268,2025-03-21,USB-C Cable,East,2,399.00
+S-00894,28 Apr 2025,Monitor Riser,West,2,1199.00
+S-00300,04-05-2025,Monitor Riser,North,2,1199.00
+S-00517,14/02/2025,Laptop Stand,East,4,1399.00
+S-00010,01/03/2025,Wireless Mouse,South,2,
+S-00758,16-02-2025,Desk Mat,South,1,649.00
+S-00944,30/01/2025,Monitor Riser,South,1,1149.00
+S-00954,19-06-2025,USB-C Hub,South,1,2149.00
+S-00731,19-04-2025,USB-C Hub,North,3,2199.00
+S-00381,26-01-2025,Monitor Riser,West,1,1199.00
+S-00575,06 May 2025,Wireless Mouse,East,1,849.00
+S-00387,2025-01-20,Laptop Stand,West,2,1499.00
+S-00839,30 May 2025,Desk Mat,North,4,649.00
+S-00313,09 May 2025,Laptop Stand,North,1,1499.00
+S-00622,21-05-2025,Monitor Riser,East,3,1149.00
+S-00046,08 Mar 2025,Desk Mat,West,1,649.00
+S-00395,14/04/2025,USB-C Cable,South,2,399.00
+S-00522,11 Jan 2025,Monitor Riser,North,5,1149.00
+S-00761,19 May 2025,Laptop Stand,West,2,1499.00
+S-00019,31/02/2025,Wireless Mouse,South,2,799.00
+S-00643,14-04-2025,USB-C Cable,North,2,399.00
+S-00158,23/03/2025,Monitor Riser,East,1,1199.00
+S-00410,09/04/2025,Laptop Stand,South,2,1499.00
+S-00229,2025-01-18,Monitor Riser,South,1,1199.00
+S-00261,06 Feb 2025,Mechanical Keyboard,South,2,3299.00
+S-00837,18/03/2025,Desk Mat,North,1,649.00
+S-00621,2025-03-09,Desk Mat,South,2,649.00
+S-00919,02-03-2025,Webcam,South,5,2499.00
+S-00247,06/06/2025,Mechanical Keyboard,West,3,3299.00
+S-00882,14/05/2025,Wireless Mouse,South,4,849.00
+S-00136,22 Jun 2025,Mechanical Keyboard,South,3,3299.00
+S-00061,10 Mar 2025,USB-C Hub,West,1,2199.00
+S-00306,06/01/2025,Wireless Mouse,East,2,849.00
+S-00081,23 May 2025,Desk Mat,East,1,649.00
+S-00356,07 Mar 2025,Laptop Stand,West,2,1499.00
+S-00367,05-02-2025,Mechanical Keyboard,North,5,3199.00
+S-00947,29-05-2025,Laptop Stand,West,3,1449.00
+S-00540,28 Mar 2025,Mechanical Keyboard,South,6,3249.00
+S-00391,15/02/2025,Wireless Mouse,East,2,849.00
+S-00937,11 Apr 2025,USB-C Hub,West,3,2199.00
+S-00186,2025-04-12,Mechanical Keyboard,North,1,3249.00
+S-00636,2025-06-21,Webcam,South,3,2399.00
+S-00472,27/01/2025,Webcam,South,1,2449.00
+S-00853,09/06/2025,USB-C Hub,South,5,2199.00
+S-00251,22-05-2025,Wireless Mouse,West,2,849.00
+S-00650,2025-04-28,Desk Mat,West,1,599.00
+S-00016,09 Mar 2025,USB-C Hub,,2,2199.00
+S-00624,08-02-2025,Wireless Mouse,West,1,849.00
+S-00128,2025-01-01,USB-C Cable,South,2,399.00
+S-00402,14 Jan 2025,Wireless Mouse,South,4,849.00
+S-00552,07-04-2025,USB-C Hub,West,2,2199.00
+S-00716,04/05/2025,Laptop Stand,South,1,1499.00
+S-00533,2025-03-02,Webcam,West,3,2399.00
+S-00220,20-01-2025,Webcam,South,2,2449.00
+S-00263,10-04-2025,Monitor Riser,North,2,1199.00
+S-00435,07/06/2025,Desk Mat,South,2,649.00
+S-00180,16-06-2025,USB-C Cable,North,1,399.00
+S-00160,2025-06-12,Wireless Mouse,South,3,849.00
+S-00523,08/05/2025,Laptop Stand,South,2,1499.00
+S-00032,21 Jun 2025, Monitor Riser ,North,1,1099.00
+S-00893,2025-01-31,USB-C Hub,East,1,2199.00
+S-00077,07 Jan 2025,Laptop Stand,North,2,1499.00
+S-00308,15-03-2025,Laptop Stand,West,2,1499.00
+S-00366,2025-03-04,Laptop Stand,South,1,1499.00
+S-00514,20-03-2025,Monitor Riser,North,1,1199.00
+S-00431,18-01-2025,Mechanical Keyboard,North,3,3299.00
+S-00613,12/02/2025,USB-C Cable,North,1,399.00
+S-00824,26-01-2025,Laptop Stand,South,4,1449.00
+S-00127,09/03/2025,Wireless Mouse,North,1,849.00
+S-00433,22/05/2025,USB-C Hub,South,2,2149.00
+S-00276,12/03/2025,Laptop Stand,North,3,1499.00
+S-00685,19/01/2025,Laptop Stand,North,1,1499.00
+S-00928,2025-02-08,USB-C Hub,North,1,2099.00
+S-00917,2025-04-07,USB-C Hub,South,2,2099.00
+S-00848,09/03/2025,Wireless Mouse,South,2,849.00
+S-00612,22/04/2025,USB-C Hub,South,5,2199.00
+S-00048,28/04/2025,Wireless Mouse,North,1,849.00
+S-00696,15/06/2025,Wireless Mouse,South,1,849.00
+S-00208,05-06-2025,Mechanical Keyboard,North,1,3299.00
+S-00319,07/02/2025,Desk Mat,North,5,649.00
+S-00323,22-03-2025,USB-C Hub,South,2,2099.00
+S-00143,10/06/2025,Monitor Riser,West,1,1099.00
+S-00353,24 Jun 2025,Desk Mat,West,2,549.00
+S-00500,27-02-2025,Laptop Stand,East,1,1449.00
+S-00916,01-04-2025,Wireless Mouse,East,1,849.00
+S-00340,11-03-2025,Desk Mat,West,1,599.00
+S-00002,27/01/2025,Wireless Mouse,South,1,
+S-00858,2025-06-09,USB-C Hub,West,3,2149.00
+S-00326,30-06-2025,Desk Mat,West,2,599.00
+S-00380,17 May 2025,Webcam,South,2,2449.00
+S-00680,2025-05-05,Laptop Stand,South,3,1499.00
+S-00534,30/06/2025,Webcam,East,2,2399.00
+S-00227,15 Feb 2025,Monitor Riser,South,2,1099.00
+S-00844,14/01/2025,Mechanical Keyboard,South,1,3199.00
+S-00850,2025-03-04,Wireless Mouse,North,2,749.00
+S-00585,2025-06-15,Desk Mat,West,1,599.00
+S-00831,2025-01-28,Webcam,West,3,2449.00
+S-00331,2025-02-05,Wireless Mouse,West,2,849.00
+S-00154,19-06-2025,USB-C Hub,South,1,2099.00
+S-00515,2025-06-30,Laptop Stand,North,4,1499.00
+S-00419,2025-01-30,Desk Mat,South,2,549.00
+S-00579,2025-05-15,Laptop Stand,North,4,1499.00
+S-00688,2025-05-30,Laptop Stand,West,1,1399.00
+S-00532,28/05/2025,USB-C Cable,South,4,399.00
+S-00711,09-03-2025,Webcam,North,3,2399.00
+S-00388,08 Feb 2025,Laptop Stand,North,2,1499.00
+S-00638,23 May 2025,Laptop Stand,North,5,1399.00
+S-00370,10 Jun 2025,USB-C Cable,South,1,399.00
+S-00347,26/06/2025,Wireless Mouse,West,5,849.00
+S-00617,24/04/2025,USB-C Cable,North,1,399.00
+S-00745,19/02/2025,Laptop Stand,West,2,1499.00
+S-00207,2025-01-30,Mechanical Keyboard,South,4,3199.00
+S-00244,19 Jun 2025,Webcam,East,2,2399.00
+S-00290,15 Apr 2025,Wireless Mouse,North,1,849.00
+S-00526,23/01/2025,Mechanical Keyboard,South,2,3199.00
+S-00577,24-04-2025,Desk Mat,East,2,599.00
+S-00787,30/04/2025,Mechanical Keyboard,South,1,3199.00
+S-00096,01/05/2025,Laptop Stand,West,1,1499.00
+S-00099,25/05/2025,Desk Mat,South,1,649.00
+S-00279,26-05-2025,Laptop Stand,South,3,1499.00
+S-00754,04/05/2025,Wireless Mouse,North,2,849.00
+S-00632,27 Jan 2025,USB-C Cable,East,2,299.00
+S-00779,21-01-2025,USB-C Hub,South,1,2199.00
+S-00102,2025-02-20,Wireless Mouse,South,4,849.00
+S-00772,2025-02-04,Webcam,West,1,2399.00
+S-00810,26 Jun 2025,USB-C Hub,South,1,2199.00
+S-00221,30 Jan 2025,USB-C Cable,North,1,299.00
+S-00542,27/02/2025,USB-C Hub,South,3,2199.00
+S-00444,08/06/2025,Laptop Stand,East,5,1449.00
+S-00369,16/04/2025,Mechanical Keyboard,North,2,3199.00
+S-00082,20 Jun 2025,Webcam,East,4,2399.00
+S-00126,20/03/2025,Laptop Stand,South,3,1499.00
+S-00498,27-02-2025,Webcam,North,5,2499.00
+S-00566,02/02/2025,Laptop Stand,South,6,1449.00
+S-00132,19-01-2025,Laptop Stand,North,1,1399.00
+S-00505,01/01/2025,USB-C Cable,West,3,399.00
+S-00747,12/03/2025,USB-C Cable,South,2,299.00
+S-00968,15-03-2025,Monitor Riser,North,2,1199.00
+S-00640,13 Mar 2025,Laptop Stand,South,2,1449.00
+S-00138,12-06-2025,Monitor Riser,East,2,1149.00
+S-00285,24-06-2025,Webcam,West,3,2399.00
+S-00006,24-01-2025,USB-C Cable,North,4,
+S-00794,05/03/2025,USB-C Hub,West,3,2149.00
+S-00816,18-02-2025,USB-C Hub,South,1,2149.00
+S-00936,01-03-2025,Desk Mat,North,4,649.00
+S-00425,2025-05-25,USB-C Cable,East,1,349.00
+S-00282,13 May 2025,USB-C Cable,East,1,399.00
+S-00135,2025-06-04,Mechanical Keyboard,North,1,3199.00
+S-00327,24 May 2025,Mechanical Keyboard,North,2,3199.00
+S-00050,2025-05-20,Mechanical Keyboard,West,6,3199.00
+S-00463,2025-05-21,USB-C Hub,South,2,2199.00
+S-00310,03-04-2025,Mechanical Keyboard,North,2,3199.00
+S-00519,2025-01-16,Desk Mat,North,4,649.00
+S-00689,16 Mar 2025,Mechanical Keyboard,South,1,3249.00
+S-00024,31/02/2025,Webcam,South,1,2499.00
+S-00350,2025-06-24,Wireless Mouse,South,2,849.00
+S-00115,29/06/2025,Monitor Riser,North,1,1199.00
+S-00784,09-03-2025,USB-C Hub,North,5,2149.00
+S-00672,09-02-2025,Laptop Stand,North,1,1499.00
+S-00159,2025-06-11,Mechanical Keyboard,East,3,3249.00
+S-00652,08 May 2025,Laptop Stand,South,1,1449.00
+S-00674,17 Feb 2025,Wireless Mouse,West,1,749.00
+S-00289,06 Jun 2025,Wireless Mouse,North,2,799.00
+S-00782,2025-06-29,Wireless Mouse,North,2,849.00
+S-00432,15/06/2025,Wireless Mouse,West,1,849.00
+S-00174,12-02-2025,Mechanical Keyboard,East,5,3299.00
+S-00943,22 Apr 2025,Webcam,South,1,2499.00
+S-00328,2025-04-12,Webcam,East,4,2499.00
+S-00231,15 Mar 2025,Wireless Mouse,West,6,849.00
+S-00458,2025-02-06,Mechanical Keyboard,West,2,3299.00
+S-00408,11 Mar 2025,Wireless Mouse,North,1,799.00
+S-00420,29 Apr 2025,Desk Mat,South,1,649.00
+S-00464,2025-01-12,Wireless Mouse,West,4,849.00
+S-00749,24/05/2025,Webcam,South,4,2499.00
+S-00537,2025-02-03,Webcam,West,5,2499.00
+S-00237,25/01/2025,USB-C Cable,North,3,299.00
+S-00509,2025-05-10,USB-C Hub,West,2,2099.00
+S-00417,22 Mar 2025,USB-C Hub,East,6,2199.00
+S-00773,12 Apr 2025,Wireless Mouse,West,1,849.00
+S-00563,22 May 2025,Laptop Stand,West,4,1449.00
+S-00710,2025-05-04,Webcam,North,3,2499.00
+S-00518,2025-01-25,Monitor Riser,North,3,1199.00
+S-00593,19-06-2025,Webcam,West,3,2449.00
+S-00252,22 Jan 2025,USB-C Hub,North,5,2199.00
+S-00194,26-04-2025,Desk Mat,East,1,549.00
+S-00616,19 Jun 2025,Wireless Mouse,West,1,849.00
+S-00825,13/01/2025,Webcam,North,3,2499.00
+S-00555,2025-06-28,Mechanical Keyboard,West,1,3299.00
+S-00406,09-02-2025,USB-C Cable,West,3,349.00
+S-00436,2025-02-22,Mechanical Keyboard,West,4,3299.00
+S-00170,05/06/2025,Webcam,North,1,2499.00
+S-00874,18-02-2025,Wireless Mouse,North,1,749.00
+S-00508,2025-06-29,Webcam,South,3,2399.00
+S-00080,2025-02-26,USB-C Hub,West,3,2149.00
+S-00597,17/03/2025,Wireless Mouse,South,3,749.00
+S-00777,25/04/2025,Wireless Mouse,South,1,849.00
+S-00821,15-05-2025,Monitor Riser,West,1,1199.00
+S-00256,05 Feb 2025,Laptop Stand,North,4,1499.00
+S-00454,17-05-2025,Mechanical Keyboard,South,1,3299.00
+S-00730,2025-02-28,Monitor Riser,West,2,1099.00
+S-00123,2025-05-28,Laptop Stand,North,4,1499.00
+S-00155,26/01/2025,Monitor Riser,North,5,1199.00
+S-00084,08 Mar 2025,Desk Mat,West,1,549.00
+S-00230,01-04-2025,Wireless Mouse,South,2,849.00
+S-00873,19/03/2025,Monitor Riser,West,4,1199.00
+S-00719,2025-06-22,Monitor Riser,South,2,1149.00
+S-00756,2025-03-05,Mechanical Keyboard,North,3,3299.00
+S-00605,26/04/2025,Mechanical Keyboard,North,3,3199.00
+S-00753,2025-03-04,Webcam,East,2,2449.00
+S-00948,10-04-2025,Monitor Riser,North,3,1199.00
+S-00826,2025-06-17,Monitor Riser,East,4,1149.00
+S-00657,29/06/2025,Webcam,West,5,2499.00
+S-00305,10 Feb 2025,Monitor Riser,East,2,1199.00
+S-00531,26/01/2025,Desk Mat,West,1,649.00
+S-00666,2025-04-08,USB-C Cable,South,3,399.00
+S-00163,21/01/2025,USB-C Cable,West,1,299.00
+S-00022,31/02/2025,USB-C Hub,South,1,2199.00
+S-00060,16/04/2025,Laptop Stand,North,5,1449.00
+S-00722,2025-06-03,Laptop Stand,East,3,1499.00
+S-00939,2025-02-13,Mechanical Keyboard,West,2,3299.00
+S-00079,07 Feb 2025,Laptop Stand,East,4,1499.00
+S-00428,2025-03-30,Laptop Stand,South,1,1499.00
+S-00094,13-01-2025,Mechanical Keyboard,South,1,3299.00
+S-00704,2025-03-09,Wireless Mouse,West,4,749.00
+S-00275,26 Jun 2025,Monitor Riser,South,1,1199.00
+S-00511,29/06/2025,Webcam,South,1,2499.00
+S-00086,11/03/2025,Webcam,South,2,2499.00
+S-00734,03-04-2025,Wireless Mouse,North,3,849.00
+S-00146,30 Jan 2025,Monitor Riser,East,3,1199.00
+S-00562,22/01/2025,Webcam,West,2,2399.00
+S-00535,07/05/2025,Mechanical Keyboard,North,1,3299.00
+S-00901,2025-04-05,USB-C Cable,West,3,299.00
+S-00660,30-05-2025,USB-C Cable,West,4,299.00
+S-00374,04-03-2025,Mechanical Keyboard,North,3,3249.00
+S-00933,2025-06-07,Webcam,South,4,2399.00
+S-00687,2025-01-05,USB-C Cable,West,2,299.00
+S-00960,2025-03-02,Mechanical Keyboard,South,2,3299.00
+S-00088,15 Apr 2025,Webcam,South,2,2499.00
+S-00770,26/01/2025,Mechanical Keyboard,West,2,3249.00
+S-00393,06-04-2025,USB-C Cable,South,1,399.00
+S-00639,07-05-2025,USB-C Hub,North,2,2199.00
+S-00804,2025-02-01,Desk Mat,South,6,649.00
+S-00588,07 Apr 2025,Webcam,South,1,2499.00
+S-00329,15 Mar 2025,Wireless Mouse,South,2,849.00
+S-00194,26-04-2025,Desk Mat,East,1,549.00
+S-00953,10/06/2025,Webcam,West,2,2449.00
+S-00304,05/03/2025,USB-C Hub,West,5,2199.00
+S-00487,18-05-2025,Webcam,South,3,2499.00
+S-00168,29-06-2025,Mechanical Keyboard,North,4,3249.00
+S-00927,15-03-2025,Mechanical Keyboard,South,3,3299.00
+S-00766,29/05/2025,Wireless Mouse,South,2,849.00
+S-00211,2025-04-27,Webcam,North,1,2499.00
+S-00755,22-03-2025,USB-C Cable,East,2,399.00
+S-00339,27 Apr 2025,Monitor Riser,East,1,1099.00
+S-00578,15/01/2025,USB-C Hub,North,3,2149.00
+S-00337,2025-04-12,Monitor Riser,North,3,1199.00
+S-00481,16 May 2025,Laptop Stand,East,5,1499.00
+S-00492,2025-04-06,USB-C Hub,West,4,2199.00
+S-00362,18 Mar 2025,Monitor Riser,West,2,1099.00
+S-00920,2025-02-14,Wireless Mouse,South,1,849.00
+S-00513,15 Apr 2025,Wireless Mouse,South,6,849.00
+S-00216,02-01-2025,Desk Mat,South,1,649.00
+S-00949,2025-05-26,Mechanical Keyboard,East,5,3299.00
+S-00565,31/01/2025,Monitor Riser,North,6,1199.00
+S-00478,26/06/2025,Laptop Stand,West,3,1499.00
+S-00573,12-04-2025,Webcam,West,1,2449.00
+S-00507,24 Jan 2025,Laptop Stand,East,4,1399.00
+S-00151,08 Feb 2025,Monitor Riser,South,1,1099.00
+S-00012,17/05/2025,Desk Mat,,2,549.00
+S-00952,29 Jan 2025,Mechanical Keyboard,East,1,3199.00
+S-00267,10-01-2025,Mechanical Keyboard,North,3,3299.00
+S-00737,2025-03-20,Webcam,West,2,2499.00
+S-00870,05 Feb 2025,Mechanical Keyboard,West,4,3299.00
+S-00255,27/02/2025,Laptop Stand,South,1,1499.00
+S-00560,08 Apr 2025,Webcam,North,1,2449.00
+S-00890,11-05-2025,USB-C Hub,South,2,2199.00
+S-00491,08/05/2025,Webcam,South,3,2499.00
+S-00085,10/06/2025,Desk Mat,North,1,649.00
+S-00557,17-03-2025,Monitor Riser,North,1,1199.00
+S-00040,08-04-2025,Laptop Stand,East,1,1449.00
+S-00834,12/06/2025,USB-C Cable,West,1,399.00
+S-00641,2025-03-02,Wireless Mouse,South,4,799.00
+S-00201,2025-06-20,Mechanical Keyboard,South,1,3249.00
+S-00424,2025-01-28,Desk Mat,West,2,549.00
+S-00587,27 Feb 2025,Mechanical Keyboard,South,5,3299.00
+S-00235,23 Apr 2025,USB-C Hub,South,5,2149.00
+S-00097,16/06/2025,Wireless Mouse,West,3,849.00
+S-00034,2025-04-01, USB-C Cable ,South,4,399.00
+S-00482,2025-05-26,USB-C Cable,South,3,349.00
+S-00345,2025-03-19,Laptop Stand,North,2,1499.00
+S-00875,05-06-2025,Desk Mat,South,1,649.00
+S-00564,27/05/2025,Desk Mat,South,1,649.00
+S-00372,17 Feb 2025,Monitor Riser,North,1,1199.00
+S-00150,01 Jan 2025,Mechanical Keyboard,West,4,3199.00
+S-00365,2025-02-22,Wireless Mouse,North,1,749.00
+S-00727,2025-02-08,Wireless Mouse,North,5,749.00
+S-00805,20 Feb 2025,Monitor Riser,West,1,1199.00
+S-00801,21-03-2025,Monitor Riser,East,2,1199.00
+S-00795,09-03-2025,Wireless Mouse,South,1,749.00
+S-00063,2025-02-27,Laptop Stand,West,2,1499.00
+S-00270,11 Mar 2025,Wireless Mouse,West,2,799.00
+S-00966,16-03-2025,USB-C Hub,North,5,2199.00
+S-00910,13-06-2025,Desk Mat,West,1,649.00
+S-00489,23-01-2025,USB-C Cable,North,2,399.00
+S-00698,14-03-2025,Wireless Mouse,East,1,799.00
+S-00191,14-02-2025,Wireless Mouse,West,1,849.00
+S-00541,16-06-2025,Webcam,North,6,2399.00
+S-00028,24 Feb 2025,Desk Mat,West,two,649.00
+S-00142,18 Jun 2025,Monitor Riser,South,1,1199.00
+S-00721,27 May 2025,USB-C Hub,North,1,2199.00
+S-00769,13/04/2025,Mechanical Keyboard,South,2,3199.00
+S-00675,24-01-2025,Webcam,North,1,2499.00
+S-00955,17/04/2025,USB-C Hub,North,4,2199.00
+S-00583,30-03-2025,USB-C Hub,West,1,2199.00
+S-00165,15-03-2025,USB-C Hub,North,5,2099.00
+S-00602,16-04-2025,Laptop Stand,East,1,1499.00
+S-00382,2025-03-22,USB-C Cable,North,4,399.00
+S-00390,05 Jan 2025,Mechanical Keyboard,South,1,3199.00
+S-00108,23 Jan 2025,Mechanical Keyboard,East,1,3249.00
+S-00908,07 Jan 2025,Monitor Riser,West,1,1199.00
+S-00298,08 May 2025,Mechanical Keyboard,West,1,3299.00
+S-00434,2025-04-14,USB-C Hub,North,3,2149.00
+S-00378,18/02/2025,Wireless Mouse,West,3,849.00
+S-00829,13/05/2025,Wireless Mouse,North,1,799.00
+S-00759,22-02-2025,Desk Mat,North,1,549.00
+S-00898,09 Jan 2025,Mechanical Keyboard,South,1,3299.00
+S-00956,03 Jan 2025,Wireless Mouse,West,1,799.00
+S-00475,07/06/2025,Monitor Riser,West,1,1199.00
+S-00525,2025-06-15,Mechanical Keyboard,South,4,3249.00
+S-00815,11 Jan 2025,Monitor Riser,West,2,1099.00
+S-00105,18/04/2025,Monitor Riser,North,6,1149.00
+S-00584,08/01/2025,USB-C Cable,North,4,399.00
+S-00364,09/01/2025,USB-C Cable,West,5,399.00
+S-00539,2025-01-19,Webcam,West,3,2399.00
+S-00902,16-03-2025,Monitor Riser,North,3,1199.00
+S-00451,09 Jan 2025,Monitor Riser,North,4,1199.00
+S-00287,11/05/2025,Desk Mat,North,1,649.00
+S-00521,2025-06-15,Monitor Riser,West,1,1199.00
+S-00090,02/01/2025,Webcam,South,2,2449.00
+S-00493,2025-03-27,USB-C Cable,North,1,299.00
+S-00413,18 Mar 2025,Monitor Riser,West,2,1199.00
+S-00836,2025-01-09,Mechanical Keyboard,South,2,3299.00
+S-00317,26 Mar 2025,Wireless Mouse,East,2,849.00
+S-00712,10-04-2025,Monitor Riser,East,4,1199.00
+S-00188,2025-03-27,Desk Mat,East,3,649.00
+S-00615,2025-06-13,Mechanical Keyboard,West,2,3199.00
+S-00775,24/05/2025,Mechanical Keyboard,South,2,3299.00
+S-00027,18 Jun 2025,Monitor Riser,East,two,1099.00
+S-00187,2025-06-19,Desk Mat,West,2,649.00
+S-00679,07 Mar 2025,Mechanical Keyboard,North,2,3299.00
+S-00859,07-03-2025,USB-C Hub,North,1,2099.00
+S-00029,2025-05-13, Monitor Riser ,North,1,1199.00
+S-00377,03/05/2025,Desk Mat,East,1,649.00
+S-00429,06 Feb 2025,Webcam,South,2,2499.00
+S-00318,09 Mar 2025,Desk Mat,West,2,649.00
+S-00838,25-01-2025,Laptop Stand,South,1,1499.00
+S-00351,25/05/2025,Wireless Mouse,North,2,749.00
+S-00404,28 Feb 2025,Webcam,South,2,2499.00
+S-00819,17/02/2025,Laptop Stand,West,2,1399.00
+S-00407,03-04-2025,Wireless Mouse,North,5,799.00
+S-00295,02/02/2025,Mechanical Keyboard,West,1,3299.00
+S-00633,16 Feb 2025,USB-C Cable,West,2,399.00
+S-00314,13-05-2025,Monitor Riser,North,4,1199.00
+S-00358,09-01-2025,Mechanical Keyboard,South,3,3249.00
+S-00139,24-03-2025,Wireless Mouse,West,1,799.00
+S-00484,10 May 2025,Mechanical Keyboard,West,2,3249.00
+S-00957,04 Feb 2025,Wireless Mouse,North,4,799.00
+S-00607,20-04-2025,Monitor Riser,South,1,1199.00
+S-00647,29-03-2025,Webcam,West,6,2499.00
+S-00558,21 Jan 2025,Monitor Riser,West,1,1149.00
+S-00171,10 Jun 2025,Wireless Mouse,East,3,849.00
+S-00628,05-02-2025,USB-C Hub,South,4,2099.00
+S-00906,03/02/2025,Monitor Riser,South,3,1149.00
+S-00744,03-01-2025,Desk Mat,West,5,549.00
+S-00322,13 May 2025,Desk Mat,South,6,599.00
+S-00441,31 Jan 2025,Desk Mat,South,1,649.00
+S-00809,30 May 2025,Wireless Mouse,South,1,849.00
+S-00325,23-05-2025,Mechanical Keyboard,North,6,3299.00
+S-00455,27/05/2025,Mechanical Keyboard,East,2,3299.00
+S-00459,14 Apr 2025,Mechanical Keyboard,West,4,3249.00
+S-00922,29/03/2025,Monitor Riser,West,2,1199.00
+S-00878,09 Jan 2025,USB-C Cable,West,1,399.00
+S-00556,2025-04-11,Monitor Riser,North,2,1149.00
+S-00405,22-01-2025,Mechanical Keyboard,West,3,3299.00
+S-00899,15/02/2025,USB-C Hub,West,2,2099.00
+S-00878,09 Jan 2025,USB-C Cable,West,1,399.00
+S-00467,2025-06-17,Webcam,North,2,2499.00
+S-00448,2025-02-27,Mechanical Keyboard,North,2,3249.00
+S-00071,25 Mar 2025,USB-C Cable,West,2,399.00
+S-00396,2025-01-22,Monitor Riser,West,3,1199.00
+S-00238,27-03-2025,Wireless Mouse,South,1,849.00
+S-00233,2025-06-04,Monitor Riser,South,5,1149.00
+S-00915,25-05-2025,Webcam,South,1,2399.00
+S-00299,18 Mar 2025,Monitor Riser,North,1,1149.00
+S-00715,07 Apr 2025,Desk Mat,South,2,649.00
+S-00293,19-03-2025,USB-C Hub,North,5,2199.00
+S-00440,22-06-2025,Mechanical Keyboard,East,2,3299.00
+S-00527,11 Jun 2025,Laptop Stand,East,3,1499.00
+S-00361,2025-05-16,USB-C Hub,West,1,2199.00
+S-00645,14 Jan 2025,Desk Mat,West,1,549.00
+S-00157,09 Jun 2025,USB-C Cable,West,4,299.00
+S-00857,18 May 2025,Desk Mat,North,2,649.00
+S-00495,2025-04-05,USB-C Hub,North,1,2099.00
+S-00918,20 Mar 2025,Webcam,West,1,2499.00
+S-00924,2025-01-02,Mechanical Keyboard,East,3,3199.00
+S-00860,14-01-2025,Monitor Riser,West,1,1149.00
+S-00889,24 Jan 2025,Wireless Mouse,West,3,849.00
+S-00152,27 Apr 2025,Webcam,East,6,2499.00
+S-00642,2025-05-08,Monitor Riser,South,6,1199.00
+S-00068,22-04-2025,Laptop Stand,South,4,1499.00
+S-00835,2025-04-07,Mechanical Keyboard,South,2,3249.00
+S-00209,2025-03-31,Laptop Stand,North,1,1449.00
+S-00646,2025-06-18,Webcam,West,1,2499.00
+S-00355,24 May 2025,Monitor Riser,West,1,1199.00
+S-00644,11-05-2025,Desk Mat,West,2,649.00
+S-00649,28/01/2025,Mechanical Keyboard,West,1,3249.00
+S-00897,13/01/2025,USB-C Hub,North,3,2199.00
+S-00959,01 Apr 2025,Desk Mat,North,2,549.00
+S-00701,12 Mar 2025,Webcam,North,3,2449.00
+S-00516,05-03-2025,Webcam,South,1,2499.00
+S-00832,12 Feb 2025,USB-C Hub,South,2,2199.00
+S-00051,20-06-2025,Mechanical Keyboard,East,1,3299.00
+S-00421,22/06/2025,Monitor Riser,North,1,1199.00
+S-00886,29/04/2025,Monitor Riser,North,2,1199.00
+S-00459,14 Apr 2025,Mechanical Keyboard,West,4,3249.00
+S-00415,27 Mar 2025,USB-C Cable,West,1,399.00
+S-00246,23 Apr 2025,Laptop Stand,South,3,1499.00
+S-00202,24/01/2025,Wireless Mouse,North,1,849.00
+S-00846,02/06/2025,Wireless Mouse,North,1,799.00
+S-00218,03-02-2025,USB-C Cable,South,1,299.00
+S-00018,24 Jan 2025,Laptop Stand,,1,1499.00
+S-00259,2025-01-13,Desk Mat,South,3,599.00
+S-00760,2025-02-09,Wireless Mouse,North,1,799.00
+S-00376,19/01/2025,Desk Mat,West,2,549.00
+S-00576,24/03/2025,Mechanical Keyboard,West,2,3299.00
+S-00021,31/02/2025,Webcam,North,2,2449.00
+S-00023,31/02/2025,Webcam,West,2,2399.00
+S-00502,16 Mar 2025,Mechanical Keyboard,West,1,3299.00
+S-00690,12 Apr 2025,Laptop Stand,South,2,1499.00
+S-00003,01 Mar 2025,Laptop Stand,South,3,
+S-00965,27-04-2025,Monitor Riser,South,1,1199.00
+S-00294,13-05-2025,Mechanical Keyboard,West,1,3199.00
+S-00693,18/05/2025,Wireless Mouse,South,3,849.00
+S-00601,01-05-2025,Desk Mat,South,4,599.00
+S-00228,24 Jun 2025,Webcam,East,2,2499.00
+S-00445,19 Feb 2025,USB-C Cable,East,2,349.00
+S-00336,2025-05-17,Laptop Stand,East,1,1499.00
+S-00254,14-01-2025,USB-C Cable,South,1,399.00
+S-00253,24 Jan 2025,Desk Mat,West,4,649.00
+S-00439,06/06/2025,USB-C Cable,South,1,349.00
+S-00778,2025-06-13,Webcam,South,2,2449.00
+S-00286,18-03-2025,USB-C Hub,West,5,2199.00
+S-00474,23 Apr 2025,Webcam,West,2,2499.00
+S-00485,29/06/2025,USB-C Cable,North,2,299.00
+S-00735,18/05/2025,USB-C Cable,South,2,349.00
+S-00708,04/04/2025,Laptop Stand,West,4,1399.00
+S-00630,27 Apr 2025,Mechanical Keyboard,West,3,3249.00
+S-00888,2025-04-27,Wireless Mouse,North,3,849.00
+S-00570,28 Jan 2025,Wireless Mouse,West,4,849.00
+S-00691,2025-05-20,Mechanical Keyboard,East,1,3299.00
+S-00161,25/03/2025,Laptop Stand,South,2,1499.00
+S-00303,25 Jan 2025,Laptop Stand,South,2,1399.00
+S-00921,24/04/2025,Laptop Stand,West,5,1499.00
+S-00352,2025-05-27,USB-C Hub,North,4,2149.00
+S-00176,2025-05-23,Webcam,North,2,2499.00
+S-00619,2025-06-09,USB-C Hub,South,4,2099.00
+S-00803,2025-02-16,Desk Mat,East,1,599.00
+S-00477,12-03-2025,Wireless Mouse,North,2,749.00
+S-00887,11/04/2025,USB-C Cable,South,1,349.00
+S-00781,16-04-2025,USB-C Hub,North,1,2199.00
+S-00288,07/05/2025,Laptop Stand,South,2,1449.00
+S-00849,04/05/2025,Desk Mat,South,3,649.00
+S-00033,04 Mar 2025, Monitor Riser ,West,1,1199.00
+S-00131,19/04/2025,Wireless Mouse,South,3,849.00
+S-00667,04/01/2025,Mechanical Keyboard,North,4,3249.00
+S-00807,06/03/2025,Monitor Riser,West,1,1199.00
+S-00185,2025-04-03,Wireless Mouse,East,2,849.00
+S-00751,24-05-2025,Wireless Mouse,South,1,849.00
+S-00930,13 Feb 2025,Wireless Mouse,South,4,749.00
+S-00469,30/06/2025,Wireless Mouse,North,2,849.00
+S-00140,2025-06-19,USB-C Cable,West,2,349.00
+S-00383,08 Mar 2025,USB-C Cable,South,1,399.00
+S-00397,16 May 2025,Laptop Stand,North,5,1399.00
+S-00838,25-01-2025,Laptop Stand,South,1,1499.00
+S-00466,2025-06-26,USB-C Hub,East,1,2199.00
+S-00222,26 Jun 2025,Webcam,North,4,2499.00
+S-00278,02 Feb 2025,Wireless Mouse,North,3,849.00
+S-00793,02 Jan 2025,Webcam,North,4,2449.00
+S-00595,29-03-2025,Desk Mat,West,3,599.00
+S-00880,26 Jun 2025,Webcam,East,4,2449.00
+S-00705,29-05-2025,USB-C Cable,West,1,399.00
+S-00895,02 Mar 2025,Desk Mat,South,2,599.00
+S-00683,2025-01-27,Desk Mat,South,3,599.00
+S-00884,18 Feb 2025,Mechanical Keyboard,South,4,3299.00
+S-00205,15/03/2025,Mechanical Keyboard,South,2,3299.00
+S-00423,2025-05-17,USB-C Cable,South,3,399.00
+S-00243,2025-02-09,Wireless Mouse,South,3,749.00
+S-00913,02-05-2025,Laptop Stand,West,2,1449.00
+S-00234,29 Mar 2025,Wireless Mouse,South,1,849.00
+S-00571,2025-03-09,USB-C Cable,West,2,349.00
+S-00113,17-03-2025,Desk Mat,South,1,549.00
+S-00236,28-03-2025,Laptop Stand,West,3,1499.00
+S-00574,06-04-2025,Laptop Stand,South,3,1499.00
+S-00204,2025-04-16,Webcam,East,5,2449.00
+S-00430,31-03-2025,Monitor Riser,North,3,1149.00
+S-00334,15-04-2025,Monitor Riser,South,1,1199.00
+S-00456,16/04/2025,Laptop Stand,East,4,1499.00
+S-00241,15/06/2025,USB-C Cable,South,1,399.00
+S-00820,24/03/2025,Wireless Mouse,West,2,799.00
+S-00713,27/01/2025,Mechanical Keyboard,West,1,3199.00
+S-00798,2025-02-18,Webcam,North,1,2399.00
+S-00497,01 May 2025,Webcam,South,1,2499.00
+S-00030,31/05/2025, Desk Mat ,South,1,649.00
+S-00651,12/06/2025,Wireless Mouse,West,2,749.00
+S-00598,24-06-2025,Webcam,West,1,2499.00
+S-00551,06/01/2025,Webcam,North,1,2499.00
+S-00280,24-04-2025,Wireless Mouse,South,2,799.00
+S-00911,18-03-2025,Webcam,West,1,2499.00
+S-00869,04/06/2025,Webcam,South,1,2499.00
+S-00868,08-04-2025,Desk Mat,South,2,599.00
+S-00343,21/06/2025,Wireless Mouse,North,1,849.00
+S-00904,28 Jan 2025,Wireless Mouse,South,3,849.00
+S-00970,01-06-2025,USB-C Hub,West,2,2199.00
+S-00215,2025-05-15,Mechanical Keyboard,North,2,3199.00
+S-00292,03/02/2025,USB-C Cable,South,4,399.00
+S-00373,15 Jan 2025,USB-C Cable,East,2,399.00
+S-00252,22 Jan 2025,USB-C Hub,North,5,2199.00
+S-00045,08-06-2025,Wireless Mouse,South,2,749.00
+S-00164,01 Mar 2025,Monitor Riser,West,2,1199.00
+S-00763,12 Apr 2025,Desk Mat,West,1,549.00
+S-00686,08-03-2025,USB-C Cable,South,3,349.00
+S-00222,26 Jun 2025,Webcam,North,4,2499.00
+S-00714,07-04-2025,USB-C Cable,South,3,399.00
+S-00116,22/03/2025,Wireless Mouse,West,5,849.00
+S-00199,17-06-2025,Desk Mat,South,4,599.00
+S-00055,01/01/2025,Webcam,West,3,2499.00
+S-00855,2025-01-14,Desk Mat,East,5,649.00
+S-00214,12 May 2025,Wireless Mouse,South,1,749.00
+S-00825,13/01/2025,Webcam,North,3,2499.00
+S-00907,2025-06-06,Desk Mat,West,6,649.00
+S-00520,30/05/2025,Mechanical Keyboard,East,1,3299.00
+S-00553,02 Jun 2025,Monitor Riser,West,2,1199.00
+S-00371,15 May 2025,Webcam,West,2,2499.00
+S-00098,2025-02-21,Laptop Stand,West,1,1449.00
+S-00961,2025-01-10,Monitor Riser,West,1,1149.00
+S-00121,2025-05-27,Mechanical Keyboard,South,2,3299.00
+S-00197,24-03-2025,USB-C Hub,North,1,2099.00
+S-00242,24/02/2025,Webcam,East,2,2499.00
+S-00572,2025-02-14,Mechanical Keyboard,South,2,3249.00
+S-00005,2025-06-28,USB-C Cable,South,1,
+S-00429,06 Feb 2025,Webcam,South,2,2499.00
+S-00357,30 Mar 2025,Wireless Mouse,South,1,849.00
+S-00544,2025-02-16,Webcam,East,6,2499.00
+S-00091,05-05-2025,Desk Mat,North,2,599.00
+S-00732,2025-06-03,USB-C Cable,North,1,399.00
+S-00923,2025-01-26,USB-C Hub,North,1,2149.00
+S-00611,18-03-2025,Mechanical Keyboard,South,2,3199.00
+S-00808,29-01-2025,Desk Mat,West,1,649.00
+S-00935,27 Apr 2025,Mechanical Keyboard,West,3,3249.00
+S-00179,06-06-2025,Desk Mat,West,3,599.00
+S-00739,2025-05-11,USB-C Cable,West,4,299.00
+S-00914,29-04-2025,USB-C Cable,East,1,299.00
+S-00462,20-04-2025,Desk Mat,South,1,649.00
+S-00718,19 Jun 2025,Desk Mat,South,1,649.00
+S-00278,02 Feb 2025,Wireless Mouse,North,3,849.00
+S-00147,16/03/2025,Mechanical Keyboard,South,2,3249.00
+S-00212,14-01-2025,USB-C Hub,North,2,2199.00
+S-00130,25/06/2025,Desk Mat,East,3,549.00
+S-00894,28 Apr 2025,Monitor Riser,West,2,1199.00
+S-00427,25/04/2025,Webcam,South,3,2399.00
+S-00905,05-06-2025,Webcam,North,2,2399.00
+S-00811,2025-01-24,Webcam,East,6,2499.00
+S-00092,2025-06-21,USB-C Cable,West,4,399.00
+S-00184,13/03/2025,Laptop Stand,West,1,1449.00
+S-00008,22/05/2025,Mechanical Keyboard,West,2,
+S-00007,2025-01-12,Monitor Riser,South,6,
+S-00934,2025-04-30,USB-C Hub,North,4,2149.00
+S-00750,2025-04-27,USB-C Cable,South,1,349.00
+S-00729,23 Jun 2025,USB-C Cable,South,2,399.00
+S-00162,16/05/2025,USB-C Cable,South,3,399.00
+S-00386,2025-02-05,Monitor Riser,North,4,1199.00
+S-00628,05-02-2025,USB-C Hub,South,4,2099.00
+S-00697,2025-05-29,Monitor Riser,East,2,1199.00
+S-00103,2025-06-28,Mechanical Keyboard,West,2,3299.00
+S-00137,13 May 2025,Monitor Riser,East,1,1099.00
+S-00042,22/03/2025,Laptop Stand,North,2,1399.00
+S-00596,10/05/2025,Mechanical Keyboard,West,4,3199.00
+S-00250,21-02-2025,USB-C Hub,East,1,2149.00
+S-00450,23-04-2025,Desk Mat,East,1,649.00
+S-00169,03/01/2025,Laptop Stand,East,3,1499.00
+S-00567,2025-06-10,USB-C Hub,West,1,2199.00
+S-00379,12 Apr 2025,Desk Mat,South,3,599.00
+S-00173,17-04-2025,USB-C Hub,North,3,2199.00
+S-00426,03/01/2025,Wireless Mouse,North,2,749.00
+S-00864,2025-03-05,Mechanical Keyboard,South,2,3299.00
+S-00281,16 Jun 2025,Mechanical Keyboard,North,1,3299.00
+S-00676,03 Apr 2025,Mechanical Keyboard,North,3,3199.00
+S-00682,10 Jun 2025,Wireless Mouse,North,2,849.00
+S-00946,25/03/2025,Monitor Riser,West,1,1199.00
+S-00178,13-06-2025,Webcam,North,1,2499.00
+S-00740,11/02/2025,USB-C Cable,East,1,399.00
+S-00703,15/06/2025,Wireless Mouse,West,4,849.00
+S-00219,19 Jan 2025,USB-C Cable,East,1,399.00
+S-00330,24-02-2025,Desk Mat,West,1,549.00
+S-00141,2025-03-22,Mechanical Keyboard,South,6,3249.00
+S-00559,06-05-2025,Mechanical Keyboard,North,2,3299.00
+S-00590,18-03-2025,Wireless Mouse,South,1,849.00
+S-00124,05/03/2025,Wireless Mouse,South,2,749.00
+S-00333,01/05/2025,Wireless Mouse,West,1,749.00
+S-00412,10 Mar 2025,Monitor Riser,North,1,1199.00
+S-00797,16 Mar 2025,Wireless Mouse,West,2,849.00
+S-00437,18-05-2025,USB-C Hub,South,1,2199.00
+S-00764,03 May 2025,Laptop Stand,South,2,1499.00
+S-00736,16-04-2025,Monitor Riser,North,2,1149.00
+S-00226,2025-01-27,USB-C Hub,North,1,2199.00
+S-00631,16/06/2025,USB-C Hub,North,3,2199.00
+S-00610,2025-01-27,USB-C Cable,South,1,399.00
+S-00813,01 Mar 2025,Webcam,East,3,2499.00
+S-00117,25-02-2025,Monitor Riser,North,2,1099.00
+S-00827,03-04-2025,USB-C Cable,West,3,399.00
+S-00066,10 Jan 2025,Wireless Mouse,South,1,849.00
+S-00606,06 May 2025,Wireless Mouse,North,2,799.00
+S-00175,30 Jan 2025,Monitor Riser,East,1,1199.00
+S-00951,16-01-2025,Webcam,East,6,2499.00
+S-00468,2025-04-12,Mechanical Keyboard,West,3,3249.00
+S-00958,09 Jun 2025,USB-C Hub,South,2,2149.00
+S-00315,06-06-2025,Webcam,North,6,2499.00
+S-00052,30/01/2025,Wireless Mouse,West,1,849.00
+S-00748,13-05-2025,Laptop Stand,West,1,1499.00
+S-00177,27 Apr 2025,Webcam,West,3,2399.00
+S-00015,24/02/2025,Monitor Riser,,5,1149.00
+S-00885,12/02/2025,USB-C Cable,South,5,299.00
+S-00665,2025-06-15,USB-C Cable,North,3,399.00
+S-00249,29/04/2025,Mechanical Keyboard,West,2,3249.00
+S-00047,2025-02-03,Mechanical Keyboard,South,5,3299.00
+S-00634,05-05-2025,Wireless Mouse,East,2,849.00
+S-00483,05 Jan 2025,Wireless Mouse,North,1,849.00
+S-00814,19-02-2025,Laptop Stand,West,2,1499.00
+S-00720,2025-03-04,Laptop Stand,North,2,1499.00
+S-00741,2025-05-01,USB-C Cable,North,1,399.00
+S-00145,10/02/2025,Mechanical Keyboard,South,2,3299.00
+S-00728,2025-05-17,Wireless Mouse,North,3,749.00
+S-00074,30/04/2025,Monitor Riser,South,1,1149.00
+S-00239,17-06-2025,USB-C Cable,North,3,399.00
+S-00594,08/03/2025,USB-C Cable,South,3,299.00
+S-00812,02 Apr 2025,USB-C Hub,West,3,2199.00
+S-00550,03-05-2025,Desk Mat,North,1,649.00
+S-00963,04-03-2025,Monitor Riser,West,3,1199.00
+S-00470,13 May 2025,Monitor Riser,North,3,1199.00
+S-00536,04/06/2025,Desk Mat,North,2,649.00
+S-00788,01 Jun 2025,Monitor Riser,West,3,1099.00
+S-00670,14-02-2025,Wireless Mouse,South,2,749.00
+S-00217,16/03/2025,Webcam,North,2,2449.00
+S-00122,2025-03-06,Monitor Riser,North,1,1149.00
+S-00416,16 Jun 2025,USB-C Hub,South,2,2199.00
+S-00044,2025-04-14,Wireless Mouse,East,2,749.00
+S-00926,28/05/2025,Mechanical Keyboard,West,1,3299.00
+S-00058,02 Apr 2025,Desk Mat,West,3,649.00
+S-00348,26-02-2025,USB-C Hub,South,2,2099.00
+S-00038,13/01/2025,Laptop Stand,East,5,1499.00
+S-00017,30 May 2025,USB-C Cable,,6,399.00
+S-00461,12/06/2025,Webcam,West,3,2449.00
+S-00547,03-01-2025,Mechanical Keyboard,North,3,3299.00
+S-00512,04-02-2025,Wireless Mouse,North,1,799.00
+S-00316,10-05-2025,Monitor Riser,West,1,1199.00
+S-00828,16/05/2025,Laptop Stand,West,4,1499.00
+S-00861,19/06/2025,Webcam,East,1,2449.00
+S-00065,08-01-2025,Wireless Mouse,East,1,749.00
+S-00399,15 Feb 2025,Webcam,North,1,2499.00
+S-00501,21/03/2025,Webcam,North,2,2499.00
+S-00245,09/02/2025,USB-C Hub,North,3,2099.00
+S-00608,2025-01-04,Webcam,West,2,2499.00
+S-00738,28/02/2025,Monitor Riser,West,5,1199.00
+S-00026,05/05/2025,Wireless Mouse,East,two,849.00
+S-00903,2025-05-15,USB-C Cable,South,3,299.00
+S-00037,2025-04-29,Desk Mat,East,1,549.00
+S-00144,15/03/2025,Monitor Riser,East,2,1199.00
+S-00195,28 Apr 2025,Laptop Stand,North,2,1449.00
+S-00449,2025-05-27,Wireless Mouse,North,2,849.00
+S-00780,04 Jun 2025,USB-C Cable,North,2,399.00
+S-00087,01 Mar 2025,USB-C Cable,West,3,399.00
+S-00499,20/01/2025,Webcam,North,3,2499.00
+S-00780,04 Jun 2025,USB-C Cable,North,2,399.00
+S-00785,28/02/2025,Desk Mat,West,2,649.00
+S-00646,2025-06-18,Webcam,West,1,2499.00
+S-00110,2025-04-01,Mechanical Keyboard,South,4,3299.00
+S-00806,2025-04-10,Mechanical Keyboard,East,1,3299.00
+S-00876,21-01-2025,Monitor Riser,North,4,1149.00
+S-00307,30 May 2025,Webcam,North,1,2399.00
+S-00196,2025-06-25,Wireless Mouse,South,5,849.00
+S-00871,07/02/2025,USB-C Hub,South,2,2199.00
+S-00786,15 May 2025,USB-C Hub,North,3,2199.00
+S-00041,2025-04-19,Monitor Riser,North,1,1199.00
+S-00568,10 Apr 2025,USB-C Cable,South,4,299.00
+S-00181,07 May 2025,Wireless Mouse,North,4,849.00
+S-00208,05-06-2025,Mechanical Keyboard,North,1,3299.00
+S-00881,2025-01-11,USB-C Cable,West,2,299.00
+S-00297,2025-01-12,Mechanical Keyboard,West,3,3249.00
+S-00471,2025-06-27,USB-C Hub,South,1,2199.00
+S-00083,21 May 2025,Monitor Riser,East,3,1149.00
+S-00349,17/04/2025,Monitor Riser,West,4,1199.00
+S-00548,28/01/2025,Laptop Stand,North,2,1449.00
+S-00375,2025-01-24,Desk Mat,North,2,549.00
+S-00093,11/04/2025,Laptop Stand,North,2,1449.00
+S-00663,24/06/2025,Mechanical Keyboard,North,1,3299.00
+S-00648,29 Jun 2025,Wireless Mouse,North,1,849.00
+S-00057,2025-04-05,USB-C Hub,South,1,2199.00
+S-00411,27-05-2025,USB-C Hub,West,1,2199.00
+S-00311,09-06-2025,Wireless Mouse,North,1,849.00
+S-00699,07-06-2025,Mechanical Keyboard,West,1,3199.00
+S-00342,14 Feb 2025,USB-C Cable,West,2,399.00
+S-00368,28/05/2025,Webcam,North,4,2399.00
+S-00549,2025-04-16,Monitor Riser,East,2,1149.00
+S-00581,2025-04-05,Monitor Riser,South,3,1199.00
+S-00891,25 May 2025,USB-C Hub,North,1,2199.00
+S-00494,08/05/2025,Monitor Riser,South,1,1099.00
+S-00706,20/05/2025,Monitor Riser,West,1,1149.00
+S-00394,2025-06-25,Wireless Mouse,West,4,849.00
+S-00799,2025-02-17,Wireless Mouse,North,1,799.00
+S-00232,29-04-2025,Laptop Stand,South,4,1499.00
+S-00847,03 Feb 2025,Webcam,North,2,2499.00
+S-00843,31 Jan 2025,Desk Mat,West,4,649.00
+S-00818,19 May 2025,Webcam,South,3,2399.00
+S-00414,02 Jun 2025,Desk Mat,South,1,649.00
+S-00447,22-01-2025,Laptop Stand,West,1,1499.00
+S-00490,20/06/2025,USB-C Hub,North,3,2199.00
+S-00503,20/02/2025,Desk Mat,North,5,649.00
+S-00790,2025-04-24,Mechanical Keyboard,South,1,3299.00
+S-00725,12/02/2025,Webcam,East,2,2499.00
+S-00528,20 May 2025,Monitor Riser,South,2,1199.00
+S-00004,26/02/2025,Monitor Riser,South,4,
+S-00589,30-05-2025,Wireless Mouse,North,6,849.00
+S-00938,05 May 2025,Laptop Stand,North,1,1449.00
+S-00338,03-01-2025,Mechanical Keyboard,South,1,3299.00
+S-00717,2025-01-20,Mechanical Keyboard,North,1,3299.00
+S-00156,15-04-2025,USB-C Hub,North,3,2199.00
+S-00273,04-06-2025,USB-C Hub,South,1,2199.00
+S-00855,2025-01-14,Desk Mat,East,5,649.00
+S-00681,2025-01-25,USB-C Hub,East,3,2099.00
+S-00039,15/04/2025,Monitor Riser,South,4,1199.00
+S-00001,13/06/2025,Wireless Mouse,North,1,
+S-00656,05-02-2025,USB-C Cable,South,4,299.00
+S-00669,19/02/2025,Mechanical Keyboard,South,6,3299.00
+S-00153,01 Mar 2025,USB-C Cable,North,3,349.00
+S-00510,22 Apr 2025,USB-C Hub,North,1,2199.00
+S-00020,31/02/2025,Laptop Stand,West,1,1399.00
+S-00909,2025-04-16,Laptop Stand,South,2,1499.00
+S-00854,2025-06-25,Webcam,North,3,2499.00
+S-00257,25/04/2025,Laptop Stand,East,1,1499.00
+S-00746,2025-06-22,Laptop Stand,South,3,1499.00
+S-00586,2025-06-24,Laptop Stand,South,1,1499.00
+S-00073,14-04-2025,Laptop Stand,South,1,1399.00
+S-00075,18-06-2025,Wireless Mouse,North,3,749.00
+S-00036,19-02-2025, Desk Mat ,South,1,649.00
+S-00106,22 Apr 2025,USB-C Hub,West,6,2199.00
+S-00266,28 Jun 2025,Monitor Riser,West,4,1199.00
+S-00733,14 May 2025,Laptop Stand,South,1,1499.00
+S-00453,12-02-2025,USB-C Hub,West,4,2199.00
+S-00109,28/03/2025,Laptop Stand,South,1,1449.00
+S-00659,09 May 2025,Webcam,West,3,2399.00
+S-00629,24 Jan 2025,Webcam,West,1,2449.00
+S-00224,26/02/2025,Webcam,West,1,2499.00
+S-00442,18/04/2025,USB-C Hub,South,2,2149.00
+S-00866,16-01-2025,Mechanical Keyboard,East,4,3299.00
+S-00554,10 Feb 2025,Laptop Stand,North,1,1499.00
+S-00148,27/04/2025,USB-C Hub,South,5,2099.00
+S-00112,2025-06-26,Monitor Riser,West,2,1199.00
+S-00842,21 Jan 2025,Laptop Stand,East,1,1449.00
+S-00661,2025-04-19,Laptop Stand,South,1,1499.00
+S-00845,25 Mar 2025,Desk Mat,North,3,599.00
+S-00403,25 Mar 2025,Laptop Stand,West,3,1449.00
+S-00625,14 Jun 2025,Desk Mat,South,6,649.00
+S-00206,18-06-2025,Monitor Riser,North,1,1099.00
+S-00504,19-05-2025,Webcam,West,3,2499.00
+S-00072,20-06-2025,USB-C Cable,West,5,299.00
+S-00452,31 Jan 2025,Desk Mat,North,3,649.00
+S-00183,31 May 2025,USB-C Hub,East,3,2149.00
+S-00272,13 May 2025,Mechanical Keyboard,West,3,3299.00
+S-00833,01 Apr 2025,Webcam,South,6,2499.00
+S-00265,04 Feb 2025,Laptop Stand,South,1,1499.00
+S-00062,26/02/2025,Desk Mat,West,2,649.00
+S-00341,17/02/2025,Laptop Stand,West,3,1399.00
+S-00398,2025-03-11,Laptop Stand,East,3,1499.00
+S-00964,06 Jun 2025,Laptop Stand,East,2,1499.00
+S-00064,13-03-2025,Webcam,West,2,2399.00
+S-00796,14/03/2025,Mechanical Keyboard,South,4,3299.00
+S-00867,2025-02-27,USB-C Hub,South,2,2199.00
+S-00076,24/01/2025,Desk Mat,West,1,649.00
+S-00800,01 Mar 2025,Wireless Mouse,North,2,849.00
+S-00166,13/06/2025,USB-C Cable,West,2,399.00
+S-00264,05-01-2025,Webcam,West,1,2499.00
+S-00332,21-06-2025,Desk Mat,West,1,599.00
+S-00862,2025-04-08,Wireless Mouse,East,2,749.00
+S-00929,22/02/2025,Webcam,South,1,2499.00
+S-00684,2025-06-25,USB-C Hub,North,3,2199.00
+S-00709,12/05/2025,USB-C Hub,South,1,2099.00
+S-00438,21 Jun 2025,Monitor Riser,South,3,1099.00
+S-00788,01 Jun 2025,Monitor Riser,West,3,1099.00
+S-00284,2025-02-04,Wireless Mouse,South,4,799.00
+S-00465,10/02/2025,Monitor Riser,South,6,1149.00
+S-00655,12/03/2025,USB-C Cable,East,6,349.00
+S-00078,17/04/2025,Desk Mat,West,2,599.00
+S-00677,24/05/2025,Laptop Stand,North,1,1499.00
+S-00479,13/05/2025,Desk Mat,West,1,649.00
+S-00302,23/03/2025,Desk Mat,South,1,649.00
+S-00260,29/01/2025,Monitor Riser,South,1,1099.00
+S-00189,22-05-2025,Desk Mat,South,4,649.00
+S-00713,27/01/2025,Mechanical Keyboard,West,1,3199.00
+S-00114,02-05-2025,Webcam,South,3,2499.00
+S-00190,07-02-2025,Laptop Stand,North,6,1499.00
+S-00823,03/02/2025,USB-C Hub,East,1,2149.00
+S-00580,05-03-2025,Laptop Stand,South,5,1499.00
+S-00664,19/05/2025,Laptop Stand,South,2,1399.00
+S-00783,2025-05-02,Laptop Stand,North,2,1499.00
+S-00896,21/01/2025,Laptop Stand,North,2,1399.00
+S-00385,06/05/2025,Monitor Riser,South,3,1199.00
+S-00134,09-05-2025,Monitor Riser,South,2,1149.00
+S-00620,14/03/2025,Wireless Mouse,West,2,749.00
+S-00877,17/02/2025,USB-C Cable,South,1,399.00
+S-00089,10 Apr 2025,Laptop Stand,West,3,1449.00
+S-00123,2025-05-28,Laptop Stand,North,4,1499.00
+S-00726,07 Apr 2025,USB-C Cable,North,1,299.00
+S-00125,14 May 2025,USB-C Cable,South,2,299.00
+S-00654,10/04/2025,Webcam,South,2,2399.00
+S-00614,06 Jan 2025,USB-C Hub,North,3,2199.00
+S-00223,31-05-2025,USB-C Cable,South,2,399.00
+S-00856,29/03/2025,Wireless Mouse,South,2,849.00
+S-00673,06/05/2025,Webcam,North,3,2399.00
+S-00609,10/06/2025,Desk Mat,North,4,649.00
+S-00059,08/06/2025,USB-C Hub,East,1,2199.00
+S-00095,2025-04-08,Mechanical Keyboard,West,4,3299.00
+S-00635,17/06/2025,Webcam,North,4,2399.00
+S-00025,2025-03-03,Laptop Stand,North,two,1499.00
+S-00035,16/01/2025, USB-C Cable ,West,4,399.00
+S-00198,2025-04-08,Mechanical Keyboard,South,2,3299.00
+S-00258,2025-05-21,USB-C Cable,North,1,399.00
+S-00291,30/04/2025,Webcam,North,4,2399.00
+S-00743,02 Jun 2025,Laptop Stand,East,4,1449.00
+S-00225,31/03/2025,Webcam,West,4,2499.00
+S-00360,24 Jun 2025,USB-C Hub,West,1,2199.00
+S-00457,05 Mar 2025,USB-C Hub,West,4,2149.00
+S-00702,25/04/2025,Webcam,West,2,2499.00
+S-00107,30/04/2025,USB-C Cable,West,2,399.00
+S-00538,06-01-2025,USB-C Hub,South,5,2199.00
+S-00942,09 Apr 2025,Wireless Mouse,South,4,749.00
+S-00422,19 Apr 2025,USB-C Cable,North,6,349.00
+S-00969,03/02/2025,Mechanical Keyboard,North,1,3299.00
+S-00070,19 Jun 2025,Wireless Mouse,West,1,849.00
+S-00852,02 Jun 2025,Laptop Stand,West,1,1499.00
+S-00009,2025-06-30,Wireless Mouse,North,1,
+S-00931,2025-01-13,USB-C Hub,North,5,2199.00
+S-00011,05/04/2025,Webcam,,1,2499.00
+S-00561,2025-03-09,Desk Mat,West,2,649.00
+S-00321,09/05/2025,Monitor Riser,East,3,1199.00
+S-00185,2025-04-03,Wireless Mouse,East,2,849.00
+S-00707,31 May 2025,Mechanical Keyboard,North,2,3299.00
+S-00694,16/04/2025,USB-C Hub,North,1,2199.00
+S-00346,20-06-2025,Wireless Mouse,South,1,749.00
+S-00533,2025-03-02,Webcam,West,3,2399.00
+S-00200,27-04-2025,USB-C Cable,South,1,349.00
+S-00789,2025-05-15,Mechanical Keyboard,East,2,3299.00
+S-00603,2025-04-15,Monitor Riser,North,4,1199.00
+S-00689,16 Mar 2025,Mechanical Keyboard,South,1,3249.00
+S-00752,18 May 2025,Mechanical Keyboard,West,6,3199.00
+S-00248,21 Mar 2025,Monitor Riser,East,1,1099.00
+S-00768,04-04-2025,USB-C Hub,South,1,2199.00
+S-00692,22 May 2025,USB-C Hub,North,1,2099.00
+S-00792,03/05/2025,Mechanical Keyboard,North,2,3299.00
+S-00473,14/06/2025,USB-C Hub,North,2,2099.00
+S-00401,09-04-2025,USB-C Hub,West,3,2199.00
+S-00599,2025-04-18,Webcam,South,2,2449.00
+S-00671,03 Feb 2025,USB-C Hub,South,1,2199.00
+S-00262,2025-02-17,Wireless Mouse,South,2,749.00
+S-00101,29 May 2025,Laptop Stand,East,2,1449.00
+S-00822,2025-04-15,Webcam,North,2,2499.00
+S-00274,19/06/2025,Mechanical Keyboard,South,2,3249.00
+S-00277,2025-01-08,USB-C Hub,West,3,2149.00
+S-00344,02-01-2025,Mechanical Keyboard,South,2,3299.00
+S-00280,24-04-2025,Wireless Mouse,South,2,799.00
+S-00879,26 Feb 2025,Desk Mat,West,1,599.00
+S-00668,12/06/2025,Webcam,West,2,2399.00
+S-00941,13 Apr 2025,USB-C Cable,North,1,399.00
+S-00626,13-01-2025,Wireless Mouse,West,4,849.00
+S-00443,23 May 2025,USB-C Hub,South,1,2199.00
+S-00865,30-03-2025,Webcam,South,1,2399.00
+S-00363,2025-02-28,Desk Mat,South,1,649.00
+S-00653,2025-05-11,USB-C Hub,West,1,2199.00
+S-00545,08-05-2025,USB-C Hub,South,1,2199.00
+S-00940,14 Apr 2025,Wireless Mouse,South,3,849.00
+S-00100,2025-06-05,Wireless Mouse,West,1,849.00
+S-00043,15/01/2025,Wireless Mouse,West,1,849.00
+S-00919,02-03-2025,Webcam,South,5,2499.00
+S-00543,2025-02-15,Laptop Stand,East,5,1449.00
+S-00324,23-06-2025,Mechanical Keyboard,West,1,3299.00
+S-00695,30 Jan 2025,USB-C Hub,West,2,2199.00
+S-00392,2025-06-08,Mechanical Keyboard,West,1,3249.00
+S-00460,25 Mar 2025,Laptop Stand,East,4,1499.00
+S-00817,03-06-2025,USB-C Hub,North,1,2199.00
+S-00950,30-05-2025,Laptop Stand,West,2,1499.00
+S-00296,2025-02-13,Webcam,West,2,2499.00
+S-00013,2025-06-25,Webcam,,3,2499.00
+S-00446,25/06/2025,Monitor Riser,South,4,1149.00
+S-00892,20/03/2025,Mechanical Keyboard,West,6,3299.00
+S-00544,2025-02-16,Webcam,East,6,2499.00
+S-00149,18-01-2025,Mechanical Keyboard,West,4,3299.00
+S-00269,15-06-2025,Desk Mat,North,4,649.00
+S-00486,13/03/2025,Wireless Mouse,South,2,849.00
+S-00400,20-01-2025,Mechanical Keyboard,North,1,3249.00
+S-00723,25/02/2025,Monitor Riser,South,2,1149.00
+S-00700,22 Mar 2025,USB-C Cable,North,1,399.00
+S-00389,2025-06-18,Monitor Riser,North,2,1149.00
+S-00240,2025-05-24,USB-C Cable,West,1,399.00
+S-00546,12 Feb 2025,Wireless Mouse,West,3,849.00
+S-00945,20 Mar 2025,USB-C Cable,North,1,299.00
+S-00771,07 Feb 2025,USB-C Hub,South,1,2149.00
+S-00754,04/05/2025,Wireless Mouse,North,2,849.00
+S-00765,31 Jan 2025,Monitor Riser,South,1,1199.00
+S-00807,06/03/2025,Monitor Riser,West,1,1199.00
+S-00309,14/04/2025,Webcam,North,1,2399.00
+S-00488,28/06/2025,USB-C Cable,West,4,399.00
+S-00409,27-01-2025,Laptop Stand,North,2,1399.00
+S-00476,01/02/2025,USB-C Cable,South,2,399.00
+S-00172,09-01-2025,Webcam,West,1,2499.00
+S-00054,2025-03-06,Laptop Stand,North,2,1499.00
+S-00119,17-05-2025,USB-C Hub,North,6,2099.00
+S-00840,26/05/2025,Desk Mat,West,3,599.00
+S-00774,11-06-2025,Wireless Mouse,South,1,849.00
+S-00271,09-04-2025,Webcam,East,2,2449.00
+S-00658,23/02/2025,Mechanical Keyboard,West,5,3299.00
+S-00056,2025-04-24,USB-C Cable,South,1,399.00
+S-00354,2025-01-15,Monitor Riser,North,2,1099.00
+S-00863,2025-02-17,Desk Mat,South,2,649.00
