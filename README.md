@@ -4,6 +4,30 @@ AutoReport turns recurring sales exports into a consistent Excel report your tea
 
 Client projects start at **₹5,000**. Each engagement defines the source format, reporting rules, acceptance checks and handover before work starts. See [packages and outreach messages](CLIENT_OFFER.md).
 
+## Watch the 45-second demo
+
+[**Watch the AutoReport walkthrough (MP4)**](https://raw.githubusercontent.com/Rakshita-0023/AutoReport-Python-Automation/main/docs/media/autoreport-demo.mp4) · [Download the sample Excel report](output/sample_report.xlsx)
+
+The walkthrough shows the source export, the command and its output, and the finished workbook. All figures come from the included synthetic sample.
+
+### Source export
+
+The CSV contains mixed date formats, duplicate rows and missing values. This excerpt shows a blank unit price.
+
+![Synthetic sales CSV excerpt with mixed dates and a missing unit price](docs/media/messy-csv.png)
+
+### Sales summary
+
+The report opens with accepted revenue, sales volume and the monthly trend. Separate tabs break down performance by product and region.
+
+![Sales Summary showing ₹3,631,222.00 in accepted revenue and the monthly trend](docs/media/sales-summary.png)
+
+### Data quality report
+
+The workbook reconciles the input row count and lists the source row and reason for each exclusion.
+
+![Data Quality Report showing 942 accepted rows, 30 duplicates removed and 28 exclusions, with an excerpt from the audit](docs/media/data-quality.png)
+
 ## Run the portfolio demo
 
 Use Python 3.11 or later. Open a terminal in the project folder and run:
